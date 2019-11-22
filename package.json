@@ -1,0 +1,11 @@
+{
+  "name": "pm-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "James",
+  "license": "MIT"
+}
